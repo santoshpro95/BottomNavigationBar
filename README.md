@@ -1,4 +1,4 @@
-# tutorial
+# BottomNavigationBar with IndexedStack
 
 A new Flutter application.
 
